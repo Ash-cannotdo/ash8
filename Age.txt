@@ -1,0 +1,9 @@
+x= 16
+print("age=",x)
+y= x+10
+z=18-x
+print("age in ten years=",y)
+if x>=18:
+print("you can drive!")
+else:
+print("wait years to drive=",z)
